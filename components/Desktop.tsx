@@ -65,7 +65,7 @@ export default function Desktop() {
         bottom: 'var(--taskbar-h)',
         overflow: 'hidden',
         /* wallpaper — user drops their image at /public/wallpaper.png */
-        backgroundImage: 'url(/wallpaper.png)',
+        backgroundImage: 'url(https://ychxxc3ikcjlk4ux.public.blob.vercel-storage.com/Iron%20Forge%20Wallpaper.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
